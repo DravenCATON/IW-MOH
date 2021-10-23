@@ -9,5 +9,5 @@
 
 ### About Our Model
 
-We proposes the instance-level weight method, which can complementarily use the knowledge of multi-modality to generate hash codes and proposes a simple and efficient partial hash function learning method to handle the partial-modal problem. Moreover, a brand-new online learning framework based on category-level hash codes is proposed in our model, making each round of the training process fast and efficient, and can be easily extended to deal with new categories. In addition, in terms of the learning of category-level hash codes, we propose a new category-level hash code loss function, and provide a direct optimization method without any relaxation operation. 
+We proposes the instance-level weight method, which can complementarily use the knowledge of multi-modality to generate hash codes and proposes a simple and efficient partial hash function learning method to handle the partial-modal problem. Moreover, a brand-new online learning framework based on category-level hash codes is proposed in our model, making each round of the training process fast and effective, and can be easily extended to deal with new categories. In addition, in terms of the learning of category-level hash codes, we propose a new category-level hash code loss function, and provide a direct optimization method without any relaxation operation. 
 
